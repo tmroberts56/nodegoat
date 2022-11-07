@@ -48,7 +48,7 @@
     "grunt-if": "https://github.com/binarymist/grunt-if/tarball/master",
     "grunt-npm-install": "^0.3.0",
     "grunt-retire": "^0.3.12",
-    "mocha": "^2.4.5",
+    "mocha": "^10.1.0",
     "selenium-webdriver": "^2.53.2",
     "should": "^8.3.1",
     "zaproxy": "^0.2.0"
